@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github-portfolio/static/css/main.c863ebbd.css",
-    "main.js": "/github-portfolio/static/js/main.b9ac6e71.js",
-    "static/js/787.8675c87a.chunk.js": "/github-portfolio/static/js/787.8675c87a.chunk.js",
-    "index.html": "/github-portfolio/index.html",
-    "main.c863ebbd.css.map": "/github-portfolio/static/css/main.c863ebbd.css.map",
-    "main.b9ac6e71.js.map": "/github-portfolio/static/js/main.b9ac6e71.js.map",
-    "787.8675c87a.chunk.js.map": "/github-portfolio/static/js/787.8675c87a.chunk.js.map"
+    "main.css": "/ALIRUBASS/static/css/main.c863ebbd.css",
+    "main.js": "/ALIRUBASS/static/js/main.3a1fb33f.js",
+    "static/js/787.8675c87a.chunk.js": "/ALIRUBASS/static/js/787.8675c87a.chunk.js",
+    "index.html": "/ALIRUBASS/index.html",
+    "main.c863ebbd.css.map": "/ALIRUBASS/static/css/main.c863ebbd.css.map",
+    "main.3a1fb33f.js.map": "/ALIRUBASS/static/js/main.3a1fb33f.js.map",
+    "787.8675c87a.chunk.js.map": "/ALIRUBASS/static/js/787.8675c87a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c863ebbd.css",
-    "static/js/main.b9ac6e71.js"
+    "static/js/main.3a1fb33f.js"
   ]
 }
