@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/ALIRUBASS/static/css/main.c863ebbd.css",
-    "main.js": "/ALIRUBASS/static/js/main.3a1fb33f.js",
-    "static/js/787.8675c87a.chunk.js": "/ALIRUBASS/static/js/787.8675c87a.chunk.js",
-    "index.html": "/ALIRUBASS/index.html",
-    "main.c863ebbd.css.map": "/ALIRUBASS/static/css/main.c863ebbd.css.map",
-    "main.3a1fb33f.js.map": "/ALIRUBASS/static/js/main.3a1fb33f.js.map",
-    "787.8675c87a.chunk.js.map": "/ALIRUBASS/static/js/787.8675c87a.chunk.js.map"
+    "main.css": "/static/css/main.d29647fc.css",
+    "main.js": "/static/js/main.ae212ffd.js",
+    "static/js/787.8675c87a.chunk.js": "/static/js/787.8675c87a.chunk.js",
+    "static/media/NUHostel.png": "/static/media/NUHostel.5f182f7fe06d671b6b77.png",
+    "static/media/ali_rubass.jpg": "/static/media/ali_rubass.fcd6eb687314f5b595f2.jpg",
+    "static/media/reecho.png": "/static/media/reecho.ee3571a15f99b27fb058.png",
+    "index.html": "/index.html",
+    "main.d29647fc.css.map": "/static/css/main.d29647fc.css.map",
+    "main.ae212ffd.js.map": "/static/js/main.ae212ffd.js.map",
+    "787.8675c87a.chunk.js.map": "/static/js/787.8675c87a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c863ebbd.css",
-    "static/js/main.3a1fb33f.js"
+    "static/css/main.d29647fc.css",
+    "static/js/main.ae212ffd.js"
   ]
 }
